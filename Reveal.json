@@ -1,0 +1,39 @@
+{
+    "image": "ipfs://QmX9HBrJTc91xroNw4xAKrDPMrvcMUPXAqRMzc5CJaqUty",
+    "description": "Discover a collection of 10,000 DigitalDoges each with its own unique traits.",
+    "name": "DigitalDoge",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Female Hair",
+            "value": "Black_Long"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Asian"
+        }
+    ]
+}
